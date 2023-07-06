@@ -1,0 +1,5 @@
+{
+    "scss.lint.compatibleVendorPrefixes": "warning",
+    "scss.lint.unknownVendorSpecificProperties": "warning",
+    "liveServer.settings.port": 5501
+}
